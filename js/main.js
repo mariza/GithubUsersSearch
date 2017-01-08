@@ -1,0 +1,7 @@
+
+(function(){
+
+userSearch({inputField:$('#githubUsers')});
+
+
+})();
